@@ -1,4 +1,4 @@
 # talhaproject
 This is my first project in repositry.
 <br>
-Author- Talha Rehman
+Author- Talha Rehman(bioinfo)
